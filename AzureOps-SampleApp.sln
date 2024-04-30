@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureOps-SampleApp", "AzureOps-SampleApp\AzureOps-SampleApp.csproj", "{99E4FD09-41D6-4F93-97A0-90CC39907921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99E4FD09-41D6-4F93-97A0-90CC39907921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E4FD09-41D6-4F93-97A0-90CC39907921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E4FD09-41D6-4F93-97A0-90CC39907921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E4FD09-41D6-4F93-97A0-90CC39907921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB2843BD-B52C-4A28-94EC-8570218A8E25}
+	EndGlobalSection
+EndGlobal
